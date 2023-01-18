@@ -17,4 +17,13 @@ git config http.postBuffer 524288000
 git push origin main
 ```
 
-Password: Personal access tokens ✔️ all# kernel
+# .gitconfig
+```
+[user]
+        name = usernamegithub
+        email = emailgithub
+[http]
+        version = HTTP/1.1
+```
+
+Password: Personal access tokens ✔️ all
